@@ -1,3 +1,3 @@
-## The name of the homework
+## Homework
 
-## Some kind  of text message
+## Edited text
